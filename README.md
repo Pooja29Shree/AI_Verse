@@ -63,7 +63,3 @@ Arumbu is an **Agentic AI–based career guidance platform** that helps students
 ## Summary
 
 **Arumbu is a psychology-driven, agentic AI career mentor that converts career confusion into a clear, adaptive learning journey.**
-
----
-
-If you want, I can make this **even shorter (1-page README)** or **add badges + demo section**.
