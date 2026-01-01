@@ -6,7 +6,7 @@ Arumbu is an **Agentic AI–based career guidance platform** that helps students
 
 ##  Pipeline
 
-![Arumbu Pipeline](arumbu.jpeg)
+![Arumbu Pipeline](arumbu.jpg)
 
 ---
 
